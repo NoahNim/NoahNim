@@ -1,16 +1,15 @@
-### Hi there 👋
+# Noah Medoff, Software Developer
 
-<!--
-**NoahNim/NoahNim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a self taught and bootcamp disciplined computer programmer
+I'm a nerd for coding. I'm always looking to learn more, experience self-growth, and collaborate with others. My love of problem solving helps me build and debug applications from an idea into a reality. I enjoy sharing my talents with a team of other inquisitve people. I'm looking to use my skills at a company that makes fun products that help society. I'm always thinking outside the box to overcome challenges, and I appreciate an environment that fosters such.
 
-Here are some ideas to get you started:
+#### In Dune, Frank Herbert wrote <i>“Any road followed precisely to its end leads precisely nowhere. Climb the mountain just a little bit to test that it's a mountain. From the top of the mountain, you cannot see the mountain.”</i>
+To me this represents life both professionally and personally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Currently</b>, I'm working on a Discord chat bot that uses ChatGPT. I'm also practicing data structures and algorithims to keep my problem solving skills sharp.
+
+<b>Most recently</b> I worked with my friend [Irene](https://github.com/imartinez921) to build an AI powered data analytics app for a Google and Square hackathon called [SALE-E](https://sale-e-w-supabase-mz2q4lmt7-imartinez921.vercel.app/).
+
+<b>Next</b> I plan on contributing to open source projects.
+
+### My resume can be found [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view)
