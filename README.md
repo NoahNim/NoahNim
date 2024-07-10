@@ -8,3 +8,19 @@ I'm a nerd for coding. I'm always looking to learn more, experience self-growth,
 
 <b>Next</b> I plan on contributing to open source projects.
 ### My resume can be found [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view)
+
+## Frequently Asked Question or FAQ
+
+### Why is your Github Garden not as green as I think it could be?
+I prefer to call it the Github Desert of Exploration and it's sandy not green. Each garden is an oasis of thought. But also my mind operates on Discordian time.
+
+### I an an idea for a website, can you make me that?
+https://www.squarespace.com/
+
+### I want to hire you for my company?
+Refer to my resume [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view) for  my contact information.
+
+### 2+2=?
+It equals 4. We have spent thousands of years going over this.
+
+Hail Eris! All Hail Discordia!
