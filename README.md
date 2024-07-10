@@ -23,4 +23,7 @@ Refer to my resume [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKSh
 ### 2+2=?
 It equals 4. We have spent thousands of years going over this.
 
-<b>Hail Eris! All Hail Discordia!</b>
+![fivefingerederis](https://github.com/NoahNim/NoahNim/assets/8650503/33384ec4-93f8-466a-84d8-b15dc12fbac9)
+
+
+
