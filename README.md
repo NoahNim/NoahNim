@@ -26,8 +26,8 @@ https://www.squarespace.com/
 ### I want to hire you for my company?
 Refer to my resume [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view) for  my contact information.
 
-### 1+1=?
-It equals 2. We have spent thousands of years going over this.
+### 1x1=?
+It equals 1. We have spent thousands of years going over this.
 
 ![fivefingerederis](https://github.com/NoahNim/NoahNim/assets/8650503/33384ec4-93f8-466a-84d8-b15dc12fbac9)
 
