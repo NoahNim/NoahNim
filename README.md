@@ -1,4 +1,4 @@
-# Noah Medoff, Software Developer
+# Noah, Software Developer
 ### I'm a self taught and bootcamp disciplined computer programmer
 I'm a nerd for coding. I'm always looking to learn more, experience self-growth, and collaborate with others. My love of problem solving helps me build and debug applications from an idea into a reality. I enjoy sharing my talents with a team of other inquisitve people. I'm looking to use my skills at a company that makes fun products that help society. I'm always thinking outside the box to overcome challenges, and I appreciate an environment that fosters such.
 #### In Dune, Frank Herbert wrote <i>“Any road followed precisely to its end leads precisely nowhere. Climb the mountain just a little bit to test that it's a mountain. From the top of the mountain, you cannot see the mountain.”</i> To me this quote represents life both professionally and personally.
