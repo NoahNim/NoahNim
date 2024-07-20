@@ -7,7 +7,6 @@ I'm a nerd for coding. I'm always looking to learn more, experience self-growth,
 <b>Most recently</b> I worked with my friend [Irene](https://github.com/imartinez921) to build an AI powered data analytics app for a Google and Square hackathon called [SALE-E](https://sale-e-w-supabase-mz2q4lmt7-imartinez921.vercel.app/).
 
 <b>Next</b> I plan on contributing to open source projects.
-### My resume can be found [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view)
 
 ## Frequently Asked Question or FAQ
 
@@ -21,7 +20,6 @@ What don't I like to do? I like hiking in nature around Seattle, I love going to
 I have a few different ones, some of which are contradictory to others. Such as...do as you will just don't hurt others. Attempting to bring order to the universe is futile, because the universe is chaotic by nature... "do the stars arrange themselves in neat little rows? No!". Keep your room orderly, tidy, and clean. Each day I wake up I make a schedule of things I'm going to try to do that day. Sometimes it's okay to relax and take a break. I should take life just the right amount of seriouss, but also the correct measured amount of unserious. Also I do sometimes listen to my dreams for guidance.
 
 ### I want to hire you for my company?
-Refer to my resume [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view) for  my contact information.
 
 ### 1x1=?
 It equals 1. We have spent thousands of years going over this.
