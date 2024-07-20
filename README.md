@@ -20,9 +20,6 @@ What don't I like to do? I like hiking in nature around Seattle, I love going to
 ### What is your guiding philosphy in life?
 I have a few different ones, some of which are contradictory to others. Such as...do as you will just don't hurt others. Attempting to bring order to the universe is futile, because the universe is chaotic by nature... "do the stars arrange themselves in neat little rows? No!". Keep your room orderly, tidy, and clean. Each day I wake up I make a schedule of things I'm going to try to do that day. Sometimes it's okay to relax and take a break. I should take life just the right amount of seriouss, but also the correct measured amount of unserious. Also I do sometimes listen to my dreams for guidance.
 
-### I an an idea for a website, can you make me that for free?
-https://www.squarespace.com/
-
 ### I want to hire you for my company?
 Refer to my resume [here](https://drive.google.com/file/d/1GZgul4wa1GaGh3OMUNKShxKNe-_BP_AN/view) for  my contact information.
 
