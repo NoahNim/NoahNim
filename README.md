@@ -5,7 +5,7 @@ I'm a nerd for coding. I'm always looking to learn more, experience self-growth,
 
 <b>Most recently</b> I built a webapp for a local business owner who does private teaching. [Chloe's Canopy](https://www.chloescanopy.com/).
 
-<b>Next</b> I plan on contributing to open source projects.
+<b>Next</b> I plan on contributing to open source projects while working on a book.
 
 ## Frequently Asked Question or FAQ
 
